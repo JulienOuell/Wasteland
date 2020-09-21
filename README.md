@@ -13,5 +13,5 @@ You will need Python for this game. Game was developed in 3.7.4, but should work
 This game was developed in order to have fun, kill some time and beat it as fast as possible!
 
 ## Authors:  
-Julien Ouellette
+Julien Ouellette  
 Brandon Phillips: Lead Programmer - https://github.com/bdon-htb
