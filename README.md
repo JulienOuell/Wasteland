@@ -14,5 +14,5 @@ This game was developed in order to have fun, kill some time and beat it as fast
 
 ## Authors:  
 Julien Ouellette  
-Brandon Phillips: Lead Programmer - https://github.com/bdon-htb
+Brandon Phillips: Lead Programmer - https://github.com/bdon-htb  
 Created in Grade 11
